@@ -26,6 +26,8 @@
 
 [2.普通节点](https://github.com/jiqiren2019/ctk/)   ([安装指南](https://github.com/jiqiren2019/ctk/)  )
 
+[3.矿池节点](https://github.com/jiqiren2019/ctk/)   ([安装指南](https://github.com/jiqiren2019/ctk/)  )
+
 ---
 
 ## 代码开发范例
