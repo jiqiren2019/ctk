@@ -24,7 +24,7 @@
 
 [1.超级节点](https://github.com/jiqiren2019/ctk/)   ([安装指南](https://github.com/jiqiren2019/ctk/)  )
 
-[2.普通节点](https://github.com/jiqiren2019/ctk/)
+[2.普通节点](https://github.com/jiqiren2019/ctk/)   ([安装指南](https://github.com/jiqiren2019/ctk/)  )
 
 ---
 
