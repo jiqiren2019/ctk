@@ -18,9 +18,9 @@ cert_id = 证书加密串
 
 [查看开发文档](https://github.com/jiqiren2019/ctk/)
 
-[查看白皮书](https://github.com/jiqiren2019/ctk/blob/master/CTK1.0.docx)
+[查看白皮书](https://github.com/jiqiren2019/ctk/blob/master/CTK1.0.pdf)
 
-[查看白皮书（英文版）](https://github.com/jiqiren2019/ctk/blob/master/CTK1.0(English).docx)
+[查看白皮书（英文版）](https://github.com/jiqiren2019/ctk/blob/master/CTK1.0(English).pdf)
 
 
 
