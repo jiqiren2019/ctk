@@ -1,5 +1,12 @@
-# ctk
 
+## 公告
+
++ 2019年9月1日开放矿池程序
++ 2019年7月27日开放普通节点挖矿程序
+
+---
+
+## 资料和视频
 
 [观看宣传视频](https://v.youku.com/v_show/id_XNDI3MDIxNzgxNg==.html?spm=a2h0j.11185381.listitem_page1.5~A)
 
@@ -11,6 +18,7 @@
 
 [查看白皮书（英文版）](https://github.com/jiqiren2019/ctk/blob/master/CTK1.0(English).pdf)
 
+---
 
 ## 节点程序下载
 
@@ -18,6 +26,7 @@
 
 [2.普通节点](https://github.com/jiqiren2019/ctk/)
 
+---
 
 ## 代码开发范例
 
@@ -25,3 +34,4 @@
 [1.GoLang语言版本](https://github.com/jiqiren2019/ctk/)  
 
 [2.JAVA语言版本](https://github.com/jiqiren2019/ctk/)
+
