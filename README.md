@@ -8,7 +8,7 @@
 
 ## 资料和视频
 
-[观看宣传视频](https://v.youku.com/v_show/id_XNDI3MDIxNzgxNg==.html?spm=a2h0j.11185381.listitem_page1.5~A)
+[观看宣传视频](https://v.youku.com/v_show/id_XNDI3MzczNjYzMg==.html?spm=a2h0j.11185381.listitem_page1.5~A)
 
 [查看讲解视频](https://v.youku.com/v_show/id_XNDI2OTYxMTg0NA==.html?spm=a2h3j.8428770.3416059.1)
 
@@ -24,9 +24,9 @@
 
 [1.超级节点](https://github.com/jiqiren2019/ctk/)   ([安装指南](https://github.com/jiqiren2019/ctk/)  )
 
-[2.普通节点](https://github.com/jiqiren2019/ctk/)   ([安装指南](https://github.com/jiqiren2019/ctk/)  )
+[2.节点](https://github.com/jiqiren2019/ctk/)   ([安装指南](https://github.com/jiqiren2019/ctk/)  )
 
-[3.矿池节点](https://github.com/jiqiren2019/ctk/)   ([安装指南](https://github.com/jiqiren2019/ctk/)  )
+[3.矿场](https://github.com/jiqiren2019/ctk/)   ([安装指南](https://github.com/jiqiren2019/ctk/)  )
 
 ---
 
