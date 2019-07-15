@@ -22,11 +22,11 @@
 
 ## 节点程序下载
 
-[1.超级节点](https://github.com/jiqiren2019/ctk/)   ([安装指南](https://github.com/jiqiren2019/ctk/)  )
+[1.开源主程序](https://github.com/jiqiren2019/ctk/)   ([安装指南](https://github.com/jiqiren2019/ctk/)  )
 
-[2.节点](https://github.com/jiqiren2019/ctk/)   ([安装指南](https://github.com/jiqiren2019/ctk/)  )
+[2.节点程序](https://github.com/jiqiren2019/ctk/)   ([安装指南](https://github.com/jiqiren2019/ctk/)  )
 
-[3.矿场](https://github.com/jiqiren2019/ctk/)   ([安装指南](https://github.com/jiqiren2019/ctk/)  )
+[3.矿场程序](https://github.com/jiqiren2019/ctk/)   ([安装指南](https://github.com/jiqiren2019/ctk/)  )
 
 ---
 
