@@ -1,8 +1,8 @@
 
 ## 公告
 
-+ 2019年9月1日开放矿池程序
-+ 2019年7月27日开放普通节点挖矿程序
++ 2019年9月1日开矿场程序
++ 2019年7月27日开放节点挖矿程序
 
 ---
 
@@ -23,7 +23,7 @@
 ## 节点程序下载
 
 [1.开源主程序](https://github.com/jiqiren2019/ctk/)   ([安装指南](https://github.com/jiqiren2019/ctk/)  )
-
++ 下载这个程序可以搭建超级节点
 [2.节点程序](https://github.com/jiqiren2019/ctk/)   ([安装指南](https://github.com/jiqiren2019/ctk/)  )
 
 [3.矿场程序](https://github.com/jiqiren2019/ctk/)   ([安装指南](https://github.com/jiqiren2019/ctk/)  )
