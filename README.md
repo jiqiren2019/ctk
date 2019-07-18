@@ -10,6 +10,13 @@
 
 ---
 
+
+## 回购公示
+
+[点击查看回购公示](https://v.youku.com/v_show/id_XNDI3MzczNjYzMg==.html?spm=a2h0j.11185381.listitem_page1.5~A)
+
+---
+
 ## 资料和视频
 
 [观看宣传视频](https://v.youku.com/v_show/id_XNDI3MzczNjYzMg==.html?spm=a2h0j.11185381.listitem_page1.5~A)
