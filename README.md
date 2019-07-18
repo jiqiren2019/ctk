@@ -25,7 +25,7 @@
 
 [查看开发文档](https://github.com/jiqiren2019/ctk/blob/master/api.pdf)
 
-[查看白皮书](https://github.com/jiqiren2019/ctk/blob/master/CTK1.0.pdf)
+[查看白皮书](https://github.com/jiqiren2019/ctk/blob/master/Hyperledger%20Ctk%E5%AE%98%E6%96%B9%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
 
 [查看白皮书（英文版）](https://github.com/jiqiren2019/ctk/blob/master/Hyperledger%20Ctk%E5%AE%98%E6%96%B9%E7%99%BD%E7%9A%AE%E4%B9%A6(English).pdf)
 
