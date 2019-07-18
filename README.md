@@ -13,7 +13,7 @@
 
 ## 回购公示
 
-[点击查看回购公示](https://v.youku.com/v_show/id_XNDI3MzczNjYzMg==.html?spm=a2h0j.11185381.listitem_page1.5~A)
+[点击查看回购公示](https://github.com/jiqiren2019/ctk/blob/master/%E5%9B%9E%E8%B4%AD%E5%85%AC%E7%A4%BA)
 
 ---
 
