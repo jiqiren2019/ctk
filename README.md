@@ -23,7 +23,7 @@
 
 [查看讲解视频](https://v.youku.com/v_show/id_XNDI2OTYxMTg0NA==.html?spm=a2h3j.8428770.3416059.1)
 
-[查看开发文档](https://github.com/jiqiren2019/ctk/)
+[查看开发文档](https://github.com/jiqiren2019/ctk/blob/master/api.pdf)
 
 [查看白皮书](https://github.com/jiqiren2019/ctk/blob/master/CTK1.0.pdf)
 
@@ -44,7 +44,7 @@
 ## 代码开发范例
 
 
-[1.GoLang语言版本](https://github.com/jiqiren2019/ctk/)  
+[1.GoLang语言版本](https://github.com/jiqiren2019/ctk/blob/master/ctk-example-go.zip)  
 
-[2.JAVA语言版本](https://github.com/jiqiren2019/ctk/)
+[2.JAVA语言版本](https://github.com/jiqiren2019/ctk/blob/master/ctk-api-example-java.zip)
 
