@@ -22,11 +22,13 @@
 
 [查看讲解视频](https://v.youku.com/v_show/id_XNDI2OTYxMTg0NA==.html?spm=a2h3j.8428770.3416059.1)
 
-[查看开发文档](https://github.com/jiqiren2019/ctk/blob/master/api.pdf)
-
 [查看白皮书](https://github.com/jiqiren2019/ctk/blob/master/Hyperledger%20Ctk%E5%AE%98%E6%96%B9%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
 
 [查看白皮书（英文版）](https://github.com/jiqiren2019/ctk/blob/master/Hyperledger%20Ctk%E5%AE%98%E6%96%B9%E7%99%BD%E7%9A%AE%E4%B9%A6(English).pdf)
+
+[查看开发文档](https://github.com/jiqiren2019/ctk/blob/master/api.pdf)
+
+[交易所对接文档](https://github.com/jiqiren2019/ctk/blob/master/%E4%BA%A4%E6%98%93%E6%89%80%E5%AF%B9%E6%8E%A5%E6%B5%81%E7%A8%8B.pdf)
 
 ---
 
