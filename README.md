@@ -38,7 +38,7 @@
 
 [2.节点程序](https://github.com/jiqiren2019/ctk/)   ([安装指南](https://github.com/jiqiren2019/ctk/)  )
 
-[3.矿场程序](https://github.com/jiqiren2019/ctk/)   ([安装指南](https://github.com/jiqiren2019/ctk/)  )
+[3.矿场程序](https://github.com/jiqiren2019/ctk/)   ([安装指南](https://github.com/jiqiren2019/ctk/blob/master/%E7%9F%BF%E5%9C%BA%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97.md)  )
 
 ---
 
