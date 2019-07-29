@@ -34,7 +34,7 @@
 
 ## 节点程序下载
 
-[1.开源主程序](https://github.com/jiqiren2019/ctk/)   ([安装指南](https://github.com/jiqiren2019/ctk/)  )
+[1.开源主程序](https://github.com/jiqiren2019/ctk/)   ([安装指南](https://github.com/jiqiren2019/ctk/blob/master/%E5%BC%80%E6%BA%90%E4%B8%BB%E7%A8%8B%E5%BA%8F%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97.md)  )
 
 [2.节点程序](https://github.com/jiqiren2019/ctk/)   ([安装指南](https://github.com/jiqiren2019/ctk/blob/master/%E8%8A%82%E7%82%B9%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97.md)  )
 
