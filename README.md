@@ -16,7 +16,7 @@ The warehouse contains 98% of the code, and some of the components will not be r
 
 [View tutorial video](https://v.youku.com/v_show/id_XNDI2OTYxMTg0NA==.html?spm=a2h3j.8428770.3416059.1)
 
-[View white paper](https://github.com/jiqiren2019/ctk/blob/master/Hyperledger%20Ctk%E5%AE%98%E6%96%B9%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
+[View white paper](https://github.com/jiqiren2019/ctk/blob/master/Hyperledger%20Ctk%20Official%20white%20paper.pdf)
 
 [View development documentation](https://github.com/jiqiren2019/ctk/blob/master/api.pdf)
 
