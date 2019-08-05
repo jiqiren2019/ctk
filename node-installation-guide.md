@@ -1,19 +1,20 @@
-## 系统要求
-linux 操作系统 , 建议使用 centos 
-先从官网下载程序，然后购买证书和创建钱包.完成之后修改配置文件运行即可
+## system requirement
+linux OS , Suggested Use centos 
+Download the program from the official website, then purchase the certificate and create the wallet
 
 
-## 配置文件说明
+## Profile description
 ```
-miner = 节点收益钱包地址
+miner = Node income wallet address
 
-cert_id = 节点证书密钥 
+cert_id = Node certificate key 
 
-# 节点程序监听端口号
+# Listening port number
 listen_port =  7555
 
 ```
 
+## Notes
 
-## 注意事项
-由于节点程序需要在节点之前传输数据，目前只支持外网直连,端口传输，如果是运行在路由器或防火墙之下，则需要将 {节点程序监听端口号} 做数据转发.
+Since the node program needs to transmit data before the node, currently only external network direct connection and port transmission are supported. 
+If it is running under a router or firewall, {node program monitoring port number} needs to be forwarded for data.

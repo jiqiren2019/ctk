@@ -1,44 +1,45 @@
-## 系统要求
-linux 操作系统 , 建议使用 centos 
-先从官网下载程序，然后购买证书和创建钱包.完成之后修改配置文件运行即可
+## system requirement
+linux OS , Suggested Use centos 
+Download the program from the official website first，Then buy the certificate and create the wallet.
+When you're done, modify the configuration file and run
 
 
-## 配置文件说明
+## Profile description
 ```
-miner = 矿场收益钱包地址
+miner = Mine revenue wallet address
 
-cert_id = 矿场证书密钥 
+cert_id = Mine income wallet address mine certificate key 
 
-# 矿场程序监听端口号
+# Listening port number
 listen_port =  7555
 
 [child]
 
 # [child.xx]
-# xx 的数据格式为数字
-# 第一个托管矿工用1,第二个托管矿工用2,依次类推
+# xx data format is digital
+# The first trust miner USES 1,The second trustee miner USES 2,and the like
 
 
-# 第一个托管矿工
+# First trust miner
 [child.1]
-miner = 矿工收益钱包地址
-cert_id = 矿工收益证书密钥
+miner = Miner income wallet address
+cert_id = Miner income certificate key
 
-
-# 第二个托管矿工
+# Second trust miner
 [child.2]
 miner = ....
 cert_id = ..
 
 
-# 第三个托管矿工
+# A third trust miner
 [child.3]
 miner = ....
 cert_id = ..
 
-# 更多的托管矿工
+# More trust miners
 ```
 
 
-## 注意事项
-由于挖矿程序需要在节点之前传输数据，目前只支持外网直连,端口传输，如果是运行在路由器或防火墙之下，则需要将 {矿场程序监听端口号} 做数据转发.
+## Notes
+Because mining program needs to transmit data before the node, only external network direct connection and port transmission are supported at present.
+If it is running under a router or firewall, {mine program monitoring port number} should be used for data forwarding.
