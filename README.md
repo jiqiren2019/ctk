@@ -31,17 +31,17 @@ The warehouse contains 98% of the code, and some of the components will not be r
 
 [1.Open source main program](https://github.com/jiqiren2019/ctk/)   ([Installation guide](https://github.com/jiqiren2019/ctk/blob/master/%E5%BC%80%E6%BA%90%E4%B8%BB%E7%A8%8B%E5%BA%8F%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97.md)  )
 
-[2.节点程序](https://github.com/jiqiren2019/ctk/)   ([安装指南](https://github.com/jiqiren2019/ctk/blob/master/%E8%8A%82%E7%82%B9%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97.md)  )
+[2.Node program](https://github.com/jiqiren2019/ctk/)   ([Installation guide](https://github.com/jiqiren2019/ctk/blob/master/%E8%8A%82%E7%82%B9%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97.md)  )
 
-[3.矿场程序](https://github.com/jiqiren2019/ctk/)   ([安装指南](https://github.com/jiqiren2019/ctk/blob/master/%E7%9F%BF%E5%9C%BA%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97.md)  )
+[3.Mine program](https://github.com/jiqiren2019/ctk/)   ([Installation guide](https://github.com/jiqiren2019/ctk/blob/master/%E7%9F%BF%E5%9C%BA%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97.md)  )
 
 ---
 
 
-## 代码开发范例
+## Code development example
 
 
-[1.GoLang语言版本](https://github.com/jiqiren2019/ctk/blob/master/ctk-example-go.zip)  
+[1.GoLang language version](https://github.com/jiqiren2019/ctk/blob/master/ctk-example-go.zip)  
 
-[2.JAVA语言版本](https://github.com/jiqiren2019/ctk/blob/master/ctk-api-example-java.zip)
+[2.JAVA language version](https://github.com/jiqiren2019/ctk/blob/master/ctk-api-example-java.zip)
 
