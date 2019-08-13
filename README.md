@@ -20,7 +20,7 @@ The warehouse contains 98% of the code, and some of the components will not be r
 
 [View development documentation](https://github.com/jiqiren2019/ctk/blob/master/api.pdf)
 
-[Exchange docking document](https://github.com/jiqiren2019/ctk/blob/master/%E4%BA%A4%E6%98%93%E6%89%80%E5%AF%B9%E6%8E%A5%E6%B5%81%E7%A8%8B.pdf)
+[Exchange docking document](https://github.com/jiqiren2019/ctk/blob/master/bourse-docking-process.pdf)
 
 [Smart Contract Development Guide](https://github.com/jiqiren2019/ctk/blob/master/smart_contract/README.md)
 
@@ -29,11 +29,11 @@ The warehouse contains 98% of the code, and some of the components will not be r
 
 ## Node program download
 
-[1.Open source main program](https://github.com/jiqiren2019/ctk/)   ([Installation guide](https://github.com/jiqiren2019/ctk/blob/master/%E5%BC%80%E6%BA%90%E4%B8%BB%E7%A8%8B%E5%BA%8F%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97.md)  )
+[1.Open source main program](https://github.com/jiqiren2019/ctk/)   ([Installation guide](https://github.com/jiqiren2019/ctk/blob/master/open-source-main-program-installation-guide.md)  )
 
-[2.Node program](https://github.com/jiqiren2019/ctk/)   ([Installation guide](https://github.com/jiqiren2019/ctk/blob/master/%E8%8A%82%E7%82%B9%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97.md)  )
+[2.Node program](https://github.com/jiqiren2019/ctk/)   ([Installation guide](https://github.com/jiqiren2019/ctk/blob/master/node-installation-guide.md)  )
 
-[3.Mine program](https://github.com/jiqiren2019/ctk/)   ([Installation guide](https://github.com/jiqiren2019/ctk/blob/master/%E7%9F%BF%E5%9C%BA%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97.md)  )
+[3.Mine program](https://github.com/jiqiren2019/ctk/)   ([Installation guide](https://github.com/jiqiren2019/ctk/blob/master/mine-field-installation-guide.md)  )
 
 ---
 
