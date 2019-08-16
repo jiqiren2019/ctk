@@ -7,7 +7,7 @@ The warehouse contains 98% of the code, and some of the components will not be r
 Super Node has been officially launched, and all users can download and run the program directly. Only need to start the node program before August 18, 2019, New York time, the program will automatically optimize the top seventeen nodes in hardware performance, block 
 storage speed, network access speed within 56 days, and give these top rankings. The super node issues a certificate. Running a super node requires a certain amount of hardware performance to maintain the efficiency and security of the network. The system will 
 automatically filter and eliminate the network environment and hardware requirements. Please ensure that you meet the requirements of running the super node.
-[Download Super Node](https://github.com/jiqiren2019/ctk/blob/master/Super%20Node/ctk.zip)
+
 ---
 
 ## Announcement
