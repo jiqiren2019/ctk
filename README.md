@@ -8,11 +8,7 @@ The warehouse contains 98% of the code, and some of the components will not be r
 + Open mine program on September 1, 2019
 
 ---
-## Super node creation start announcement
 
-We passed the test procedure for the SuperNode last night, and all users can download and run the program directly. Only need to start the node program before August 18, 2019, New York time, the program will automatically optimize the top seventeen nodes in hardware performance, block storage speed, network access speed within 56 days, and give these top rankings. The super node issues a certificate. Running a super node requires a certain amount of hardware performance to maintain the efficiency and security of the network. The system will automatically filter and eliminate the network environment and hardware requirements. Please ensure that you meet the requirements of running the super node.
-
----
 
 
 ## Data and video
