@@ -1,5 +1,5 @@
-## 点击切换中文版
-[Smart Contract Development Guide](https://github.com/jiqiren2019/ctk/blob/master/smart_contract/README.md)
+## 中文版
+[点击跳转至中文版](https://github.com/jiqiren2019/ctk/blob/master/READM3.MD)
 ---
 ## Warehouse description
 The warehouse contains 98% of the code, and some of the components will not be released in detail due to the developers, so they will be announced in the future.
