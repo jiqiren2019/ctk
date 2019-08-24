@@ -1,4 +1,3 @@
-## 中文版
 [点击跳转至中文版](https://github.com/jiqiren2019/ctk/blob/master/READM3.MD)
 ---
 
