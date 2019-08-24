@@ -1,3 +1,6 @@
+[点击跳转至英文版](https://github.com/jiqiren2019/ctk/blob/master/README.md)
+---
+
 
 ## 仓库说明
 仓库包含98％的代码，由于开发人员的原因，部分组件不会详细发布，因此它们将在未来公布.
