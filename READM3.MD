@@ -26,7 +26,7 @@
 
 [查看教程视频](https://v.youku.com/v_show/id_XNDI2OTYxMTg0NA==.html?spm=a2h3j.8428770.3416059.1)
 
-[查看白皮书](https://github.com/jiqiren2019/ctk/blob/master/Hyperledger%20Ctk%20Official%20white%20paper.pdf)
+[查看白皮书](https://github.com/jiqiren2019/ctk/blob/master/Hyperledger Ctk官方白皮书.pdf)
 
 [查看开发文档](https://github.com/jiqiren2019/ctk/blob/master/api.pdf)
 
