@@ -24,6 +24,8 @@
 
 [观看宣传视频](https://v.youku.com/v_show/id_XNDI3MzczNjYzMg==.html?spm=a2h0j.11185381.listitem_page1.5~A)
 
+[关于Hyperledger](https://www.youtube.com/watch?v=fJBkx7QH7nk)
+
 [查看教程视频](https://v.youku.com/v_show/id_XNDI2OTYxMTg0NA==.html?spm=a2h3j.8428770.3416059.1)
 
 [查看白皮书](https://github.com/jiqiren2019/ctk/blob/master/Hyperledger%20Ctk%E5%AE%98%E6%96%B9%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
