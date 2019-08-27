@@ -25,6 +25,8 @@ automatically filter and eliminate the network environment and hardware requirem
 
 [Watch promotional videos](https://v.youku.com/v_show/id_XNDI3MzczNjYzMg==.html?spm=a2h0j.11185381.listitem_page1.5~A)
 
+[About Hyperledger](https://www.youtube.com/watch?v=fJBkx7QH7nk)
+
 [View tutorial video](https://v.youku.com/v_show/id_XNDI2OTYxMTg0NA==.html?spm=a2h3j.8428770.3416059.1)
 
 [View white paper](https://github.com/jiqiren2019/ctk/blob/master/Hyperledger%20Ctk%20Official%20white%20paper.pdf)
