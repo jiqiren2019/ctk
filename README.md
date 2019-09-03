@@ -15,7 +15,7 @@ automatically filter and eliminate the network environment and hardware requirem
 
 ## Announcement
 
-+ Open mine program on September 1, 2019
++ Open mine program on October 1, 2019
 
 ---
 
