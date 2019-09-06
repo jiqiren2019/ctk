@@ -1,4 +1,4 @@
-[点击跳转至英文版](https://github.com/jiqiren2019/ctk/blob/master/README.md)
+[Click to jump to English version](https://github.com/jiqiren2019/ctk/blob/master/README.md)
 ---
 
 
