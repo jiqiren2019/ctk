@@ -6,9 +6,13 @@ Download the program from the official website, then purchase the certificate an
 ## Profile description
 ```
 # acccount: Enter mining account here (!!!!!!!!! Note: there is a space after !!!!!!!!!!!)
+# for example : 
+# account: 0xb1f254c9b48b0681d9549b983c9f404692cd2a3b
 account: 
 
 # ticket: Enter the certificate code here(!!!!!!!!!!! Note: there is a space after !!!!!!!!!!!!)
+# for example : 
+# ticket: 0123456789
 ticket: 
 ```
 
