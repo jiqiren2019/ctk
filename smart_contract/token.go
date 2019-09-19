@@ -1010,7 +1010,6 @@ func (self *TokenChaincode) transfer(stub shim.ChaincodeStubInterface, args []st
 	if precisionLen > precision {
 		return shim.Error("The number of transactions is too many decimal places")
 	}
-	/********************* 获取转入账号的余额 **************/
 	key := strings.ToLower(token + "_" + inAccount)
 	keyValbytes, err := stub.GetState(strings.ToLower(key))
 	if err != nil {
