@@ -6,37 +6,39 @@ When you're done, modify the configuration file and run
 
 ## Profile description
 ```
-miner = Mine revenue wallet address
+# Enter mining account here(!!!!!!!!! Note: there is a space after the !!!!!!!!!!!)
+# for example : 
+# account: 0xb1f254c9b48b0681d9549b983c9f404692cd2a3b
+account: 
 
-cert_id = Mine income wallet address mine certificate key 
+# Enter the certificate code here(!!!!!!!!!!! Note: there is a space after the !!!!!!!!!!!!)
+# for example : 
+# ticket: 01234567
+ticket: 
 
-# Listening port number
-listen_port =  7555
-
-[child]
-
-# [child.xx]
-# xx data format is digital
-# The first trust miner USES 1,The second trustee miner USES 2,and the like
-
-
-# First trust miner
-[child.1]
-miner = Miner income wallet address
-cert_id = Miner income certificate key
-
-# Second trust miner
-[child.2]
-miner = ....
-cert_id = ..
-
-
-# A third trust miner
-[child.3]
-miner = ....
-cert_id = ..
-
-# More trust miners
+# Configure agent mining information
+child:
+  # Set generation mining account, multiple with, space
+  # for example : 
+  # -------------------------------------
+  # account: [
+  # 0xb1f254c9b48b0681d9549b983c9f404692cd2a3b,
+  # 0xb1f254c9b48b0681d9549b983c9f404692cd2a3b,
+  # ]
+  # --------------------------------------
+  account: [
+  ]
+  
+  # Set generation mining certificate code, multiple with, separation
+  # for example : 
+  # -------------------------------------
+  # ticket: [
+  # 123456,
+  # 7890ab,
+  # ]
+  # -------------------------------------- 
+  ticket: [
+  ]
 ```
 
 
