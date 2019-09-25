@@ -44,11 +44,11 @@ automatically filter and eliminate the network environment and hardware requirem
 
 ## Node program download
 
-[1.Open source main program](https://github.com/jiqiren2019/ctk/)   ([Installation guide](https://github.com/jiqiren2019/ctk/blob/master/open-source-main-program-installation-guide.md)  )
+[1.Open source main program](https://github.com/jiqiren2019/ctk/blob/master/release/node/super_node.zip)   ([Installation guide](https://github.com/jiqiren2019/ctk/blob/master/open-source-main-program-installation-guide.md)  )
 
-[2.Node program](https://github.com/jiqiren2019/ctk/)   ([Installation guide](https://github.com/jiqiren2019/ctk/blob/master/node-installation-guide.md)  )
+[2.Node program](https://github.com/jiqiren2019/ctk/blob/master/release/node/normal_node.zip)   ([Installation guide](https://github.com/jiqiren2019/ctk/blob/master/node-installation-guide.md)  )
 
-[3.Mine program](https://github.com/jiqiren2019/ctk/)   ([Installation guide](https://github.com/jiqiren2019/ctk/blob/master/mine-field-installation-guide.md)  )
+[3.Mine program](https://github.com/jiqiren2019/ctk/blob/master/release/node/pool_node.zip)   ([Installation guide](https://github.com/jiqiren2019/ctk/blob/master/mine-field-installation-guide.md)  )
 
 ---
 
