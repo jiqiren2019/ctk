@@ -43,11 +43,11 @@
 
 ## 节点程序下载
 
-[1.开源主程序](https://github.com/jiqiren2019/ctk/blob/master/release/node/super_node.zip)   ([安装指南](https://github.com/jiqiren2019/ctk/blob/master/open-source-main-program-installation-guide.md)  )
+[1.开源主程序](https://github.com/jiqiren2019/ctk/raw/master/release/node/super_node.zip)   ([安装指南](https://github.com/jiqiren2019/ctk/blob/master/open-source-main-program-installation-guide.md)  )
 
-[2.节点程序](https://github.com/jiqiren2019/ctk/blob/master/release/node/normal_node.zip)   ([安装指南](https://github.com/jiqiren2019/ctk/blob/master/node-installation-guide.md)  )
+[2.节点程序](https://github.com/jiqiren2019/ctk/raw/master/release/node/normal_node.zip)   ([安装指南](https://github.com/jiqiren2019/ctk/blob/master/node-installation-guide.md)  )
 
-[3.矿场程序](https://github.com/jiqiren2019/ctk/blob/master/release/node/pool_node.zip)   ([安装指南](https://github.com/jiqiren2019/ctk/blob/master/mine-field-installation-guide.md)  )
+[3.矿场程序](https://github.com/jiqiren2019/ctk/raw/master/release/node/pool_node.zip)   ([安装指南](https://github.com/jiqiren2019/ctk/blob/master/mine-field-installation-guide.md)  )
 
 ---
 
@@ -55,14 +55,14 @@
 ## 代码开发示例
 
 
-[1.GoLang语言版](https://github.com/jiqiren2019/ctk/blob/master/ctk-example-go.zip)  
+[1.GoLang语言版](https://github.com/jiqiren2019/ctk/raw/master/ctk-example-go.zip)  
 
-[2.JAVA语言版](https://github.com/jiqiren2019/ctk/blob/master/ctk-api-example-java.zip)
+[2.JAVA语言版](https://github.com/jiqiren2019/ctk/raw/master/ctk-api-example-java.zip)
 
 ---
 
 
 ## 超级节点竞选程序下载
 
-[1.下载超级节点竞选程序](https://github.com/jiqiren2019/ctk/blob/master/Super%20Node/super.zip)
+[1.下载超级节点竞选程序](https://github.com/jiqiren2019/ctk/raw/master/Super%20Node/super.zip)
 ---
