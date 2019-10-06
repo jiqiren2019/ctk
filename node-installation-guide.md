@@ -10,10 +10,10 @@ Download the program from the official website, then purchase the certificate an
 # account: 0xb1f254c9b48b0681d9549b983c9f404692cd2a3b
 account: 
 
-# ticket: Enter the certificate code here(!!!!!!!!!!! Note: there is a space after !!!!!!!!!!!!)
+# cert: Enter the certificate code here(!!!!!!!!!!! Note: there is a space after !!!!!!!!!!!!)
 # for example : 
-# ticket: 0123456789
-ticket: 
+# cert: 0123456789
+cert: 
 ```
 
 ## Notes

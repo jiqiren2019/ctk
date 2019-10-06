@@ -5,12 +5,15 @@ Download the program from the official website, then purchase the certificate an
 
 ## Profile description
 ```
-miner = Node income wallet address
+# acccount: Enter mining account here (!!!!!!!!! Note: there is a space after !!!!!!!!!!!)
+# for example : 
+# account: 0xb1f254c9b48b0681d9549b983c9f404692cd2a3b
+account: 
 
-cert_id = Node certificate key 
-
-# Listening port number
-listen_port =  7555
+# cert: Enter the certificate code here(!!!!!!!!!!! Note: there is a space after !!!!!!!!!!!!)
+# for example : 
+# cert: 0123456789
+cert: 
 
 ```
 
