@@ -43,11 +43,15 @@
 
 ## 节点程序下载
 
-[1.开源主程序] win64(https://github.com/jiqiren2019/ctk/raw/master/release/node/win/super_node.zip)                                                       linux64(https://github.com/jiqiren2019/ctk/raw/master/release/node/linux/super_node.zip)   ([安装指南](https://github.com/jiqiren2019/ctk/blob/master/open-source-main-program-installation-guide.md)  )
+1.开源主程序 [win64](https://github.com/jiqiren2019/ctk/raw/master/release/node/win/super_node.zip) | [linux64](https://github.com/jiqiren2019/ctk/raw/master/release/node/linux/super_node.zip)  ([安装指南](https://github.com/jiqiren2019/ctk/blob/master/open-source-main-program-installation-guide.md)  )
 
-[2.节点程序](https://github.com/jiqiren2019/ctk/raw/master/release/node/normal_node.zip)   ([安装指南](https://github.com/jiqiren2019/ctk/blob/master/node-installation-guide.md)  )
 
-[3.矿场程序](https://github.com/jiqiren2019/ctk/raw/master/release/node/pool_node.zip)   ([安装指南](https://github.com/jiqiren2019/ctk/blob/master/mine-field-installation-guide.md)  )
+2.节点程序 [win64](https://github.com/jiqiren2019/ctk/raw/master/release/node/win/normal_node.zip) | [linux64](https://github.com/jiqiren2019/ctk/raw/master/release/node/linux/normal_node.zip)  ([安装指南](https://github.com/jiqiren2019/ctk/blob/master/node-installation-guide.md)  )
+ 
+ 
+ 
+3.矿场程序 [win64](https://github.com/jiqiren2019/ctk/raw/master/release/node/win/pool_node.zip) | [linux64](https://github.com/jiqiren2019/ctk/raw/master/release/node/linux/pool_node.zip)  ([安装指南](https://github.com/jiqiren2019/ctk/blob/master/mine-field-installation-guide.md)  )
+ 
 
 ---
 
