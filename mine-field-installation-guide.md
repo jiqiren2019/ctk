@@ -13,8 +13,8 @@ account:
 
 # Enter the certificate code here(!!!!!!!!!!! Note: there is a space after the !!!!!!!!!!!!)
 # for example : 
-# ticket: 01234567
-ticket: 
+# cert: 01234567
+cert: 
 
 # Configure agent mining information
 child:
@@ -32,12 +32,12 @@ child:
   # Set generation mining certificate code, multiple with, separation
   # for example : 
   # -------------------------------------
-  # ticket: [
+  # cert: [
   # 123456,
   # 7890ab,
   # ]
   # -------------------------------------- 
-  ticket: [
+  cert: [
   ]
 ```
 
